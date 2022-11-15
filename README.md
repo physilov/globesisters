@@ -4,7 +4,7 @@ a test project for globesisters
 
 ## Getting Started!
 
-[Simulator Screen Shot - iPhone 13 - 2022-11-15 at 13 08 34](https://user-images.githubusercontent.com/58402187/202025933-7c7b6c33-483b-4b15-aa60-6e4fb4263454.png)
+https://user-images.githubusercontent.com/58402187/202025933-7c7b6c33-483b-4b15-aa60-6e4fb4263454.png
 
 
 
